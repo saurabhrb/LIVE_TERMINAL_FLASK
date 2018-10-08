@@ -9,7 +9,7 @@ Bugs:
 - python 2.7:
   - raw_input('text') blocks the stdout read becoz of which 
     'text' gets displayed after the user input
-- requirements only mentioned for Windows, still needs proper testing f all commands on MAC and Linux 
+- requirements only mentioned for Windows, still needs proper testing of all commands on MAC and Linux 
 
 Working example:
 - https://youtu.be/-x8RYNSLkbY
