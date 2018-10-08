@@ -2,7 +2,7 @@
 Features:
 - live stream of console over Flask server using websockets
 - user input is also handled
-- 'python'\command wont work, but 'python your_file.py arg1 arg2' will work
+- 'python' command wont work, but 'python your_file.py arg1 arg2' will work
 - adds a custom host "my_flask_liveterminal.com" to hosts file, which needs admin access for the first time run
 
 Bugs:
